@@ -1,2 +1,21 @@
-# beam-deflection-python
-Python-based Beam Deflection Analysis tool to calculate and visualize deflection of a simply supported beam under point load and UDL. Uses standard structural formulas with graphical output using NumPy and Matplotlib, combining Civil Engineering concepts with programming.
+# Beam Deflection Analysis using Python
+
+This project calculates and visualizes the deflection of a simply supported beam under different loading conditions.
+
+## Features
+- Point Load (center)
+- Uniformly Distributed Load (UDL)
+- Graph visualization of deflection
+- Output in meters and millimeters
+
+## Technologies Used
+- Python
+- NumPy
+- Matplotlib
+
+## Concepts Used
+- Structural Analysis formulas
+- Beam deflection theory
+
+## Author
+Civil Engineering student exploring Python for engineering applications.
