@@ -19,3 +19,13 @@ This project calculates and visualizes the deflection of a simply supported beam
 
 ## Author
 Civil Engineering student exploring Python for engineering applications.
+
+## How to Run
+
+1. Install required libraries:
+pip install numpy matplotlib
+
+2. Run the program:
+python beam_deflection.py
+
+
